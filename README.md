@@ -30,12 +30,15 @@
     <h2 align="center"> Back-End</h2>
     <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/mysql.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png">
-
+       <img align="center" height="30" width="40" alt="c-icon" src="https://user-images.githubusercontent.com/108835796/206925276-f4e72758-27be-4849-8d70-8d4e126ecd30.png">  
    </div>
   
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Contato</h1>
+    <a href = "https://api.whatsapp.com/send?phone=5521992201075">
+      <img src="https://img.shields.io/badge/-Whatsapp-%230075B54?style=for-the-badge&logo=Whatsapp&logoColor=white" target="_blank">
+    </a>
     <a href = "mailto: esmirnaamneris@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
